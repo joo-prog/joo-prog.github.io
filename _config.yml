@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Hyoju's Studylog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "노효주(Hyoju Roh)"
+name                     : "Hyoju Roh"
 description              : "매일매일 기록하기"
 url                      : "https://joo-prog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -261,9 +261,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      mathjax: true
+      sidebar_main: true
   # _pages
   - scope:
       path: "_pages"

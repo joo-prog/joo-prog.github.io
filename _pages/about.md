@@ -7,9 +7,13 @@ toc_sticky: true
 toc_label: "ABOUT ME"
 ---
 ## :school: Education
-* **Sejong University**<br>
-    B.S in Data Science<br>
-    2019.03 ~ 2023.02 (Expected)
+* **Sejong University**
+    <span style="font-size: 0.7rem">
+      2019.03 ~ 2023.02 (Expected)<br>
+    </span>
+    <span style="font-size:0.89em">
+      B.S in Data Science<br>
+      </span>
 
 ## :books: Research Interests
   * Computer Vision
