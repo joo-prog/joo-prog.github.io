@@ -7,15 +7,34 @@ toc_sticky: true
 toc_label: "ABOUT ME"
 ---
 ## :school: Education
-* **Sejong University**
-    <span style="font-size: 0.7rem">
+<ul class="page__li">
+<li> <strong>Sejong University</strong>
+    <span style="font-size: 0.7rem; text-align:right;">
       2019.03 ~ 2023.02 (Expected)<br>
     </span>
-    <span style="font-size:0.89em">
+    <span style="font-size:0.9em">
       B.S in Data Science<br>
       </span>
-
+      </li>
+</ul>
 ## :books: Research Interests
-  * Computer Vision
-  * Machine Learning
-  * Deep Learning
+<ul class="page__li">
+  <li> Computer Vision </li>
+  <li> Machine Learning </li>
+  <li> Deep Learning </li>
+  </ul>
+## :muscle: Skills
+<ul class="page__li">
+  <li> <strong>Programming</strong> 
+  <ul>
+    <li>C, Python, HTML, CSS</li>
+    </ul>
+    </li>
+  <li> <strong>Language</strong> 
+    <ul>
+    <li>Korean</li>
+    <li>English</li>
+    </ul>
+  </li>
+  </ul>
+
