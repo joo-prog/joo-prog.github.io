@@ -1,2 +1,2 @@
 # joo-prog.github.io
-blog
+내 blog
