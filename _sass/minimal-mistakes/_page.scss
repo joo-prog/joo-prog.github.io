@@ -116,10 +116,6 @@ body {
     font-size: 1em;
   }
 
-  .page__li {
-    font-size: 0.8em;
-  }
-
   /* paragraph indents */
   p {
     font-size: 0.8em;
@@ -254,6 +250,10 @@ body {
     text-decoration: none;
   }
 }
+.page__li {
+  font-size: 0.8em;
+}
+
 
 /*
    Social sharing
