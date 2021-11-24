@@ -23,7 +23,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title" style="font-size:large">Computer Vision</span>
+        <span class="nav__sub-title" style="font-size:large">ML/DL</span>
             
       </li>
   </ul>
