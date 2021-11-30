@@ -17,7 +17,7 @@ toc_label: "ABOUT ME"
       </span>
       </li>
 </ul>
-## :books: Research Interests
+## :books: Interests
 <ul class="page__li">
   <li> Computer Vision </li>
   <li> Machine Learning </li>
